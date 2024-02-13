@@ -63,6 +63,15 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/images/numbers/number_one.png
+    - assets/images/numbers/number_two.png
+    - assets/images/numbers/number_three.png
+    - assets/images/numbers/number_four.png
+    - assets/images/numbers/number_five.png
+    - assets/images/numbers/number_six.png
+    - assets/images/numbers/number_seven.png
+    - assets/images/numbers/number_eight.png
+    - assets/images/numbers/number_nine.png
+    - assets/images/numbers/number_ten.png
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
